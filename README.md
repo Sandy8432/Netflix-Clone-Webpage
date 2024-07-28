@@ -1,6 +1,5 @@
-# Netflix-Clone-Webpage
-
-"Netflix-Clone-Webpage: 
+# Netflix_Clone
+"Netflix Clone: A CSS Mastery Project
 
 Built a Netflix clone using only HTML and CSS to push the limits of what's possible without JavaScript. 
 This project features a user-friendly interface, custom animations, and a responsive design.
